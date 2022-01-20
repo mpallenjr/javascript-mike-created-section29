@@ -344,7 +344,7 @@ if (23 >10) {
 }
 // provides a comparison but does not actually produce a value
 */
-
+/*
 const age = 30;
 // Conditional (Ternary) Operator
 age >= 18 ?  // condition
@@ -370,3 +370,4 @@ console.log(drink2)
 console.log(`I like to drink ${age >= 18 ? 'whiskey 🥃' : 'water 💧'}`)
 
 //  When you have larger blocks of code to execute based on a decision, you should be using an if else statement, where a ternary operator is used to make a quick descision and for template literls. 
+*/

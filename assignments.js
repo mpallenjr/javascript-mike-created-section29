@@ -1,4 +1,4 @@
-
+/*
 
 // LECTURE: Values and Variables
 // 1. Declare variables called 'country', 'continent' and 'population' and
@@ -178,3 +178,4 @@ if(language === 'english' && population < 50000000 && !isIsland) {
 // 130. See the different results, and set the population back to original
 
 population > 33000000 ? console.log(`${country}'s population is above average`) : console.log(`${country}'s population is below average.`);
+*/
